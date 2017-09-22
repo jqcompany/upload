@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7ddc36ae-7a27-4cad-ae09-f7fe4c36572c" name="master" url="http://sushi-master.cr50006.tmweb.ru">
+        <fileTransfer host="sushi-master.cr50006.tmweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
